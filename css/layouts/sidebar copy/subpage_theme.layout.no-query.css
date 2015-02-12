@@ -1,0 +1,45 @@
+/* line 44, ../../../sass/layouts/sidebar copy/subpage_theme.layout.scss */
+.l-page {
+  margin: 0 auto;
+  width: 44em;
+  width: 70em;
+  width: 70em; }
+
+/* line 57, ../../../sass/layouts/sidebar copy/subpage_theme.layout.scss */
+.l-main {
+  overflow: hidden;
+  *zoom: 1; }
+
+/* line 63, ../../../sass/layouts/sidebar copy/subpage_theme.layout.scss */
+.l-region--sidebar-first {
+  width: 23.72881%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+
+/* line 67, ../../../sass/layouts/sidebar copy/subpage_theme.layout.scss */
+.l-content {
+  width: 74.57627%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none; }
+
+/* line 73, ../../../sass/layouts/sidebar copy/subpage_theme.layout.scss */
+.l-region--sidebar-first {
+  width: 23.72881%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none; }
+
+/* line 77, ../../../sass/layouts/sidebar copy/subpage_theme.layout.scss */
+.l-content {
+  width: 74.57627%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+
+/*# sourceMappingURL=subpage_theme.layout.no-query.css.map */

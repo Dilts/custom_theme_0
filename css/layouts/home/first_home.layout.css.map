@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAOA,wBAAyB;EACxB,UAAU,EAAE,IAAI;;;AAGjB,OAAQ;EACP,UAAU,EAAE,GAAG",
+"sources": ["../../../sass/layouts/home/first_home.layout.scss"],
+"names": [],
+"file": "first_home.layout.css"
+}

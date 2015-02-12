@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA,wBAAyB;EACxB,UAAU,EAAE,IAAI;;;AAGjB,OAAQ;EACP,UAAU,EAAE,GAAG",
+"sources": ["../../../sass/layouts/sidebar%20copy/first_subpage_theme.layout.scss"],
+"names": [],
+"file": "first_subpage_theme.layout.css"
+}

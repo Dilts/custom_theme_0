@@ -1,0 +1,28 @@
+/* line 44, ../../../sass/layouts/home/home.layout.scss */
+.l-page {
+  margin: 0 auto;
+  width: 44em;
+  width: 70em; }
+
+/* line 54, ../../../sass/layouts/home/home.layout.scss */
+.l-main {
+  overflow: hidden;
+  *zoom: 1; }
+
+/* line 61, ../../../sass/layouts/home/home.layout.scss */
+.l-content {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+
+/* line 67, ../../../sass/layouts/home/home.layout.scss */
+.l-content {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+
+/*# sourceMappingURL=home.layout.no-query.css.map */

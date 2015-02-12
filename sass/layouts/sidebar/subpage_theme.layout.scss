@@ -1,0 +1,83 @@
+// Import external libraries.
+@import "compass";
+@import "breakpoint";
+@import "singularitygs";
+// Globbing
+@import "../../variables/**/*"; 
+
+// Making the responsive grid and gutters plus work with mixins...
+
+// .l-page {
+// 	margin: 0 auto;
+// 	@include breakpoint($desk){
+// 		p {
+// 			font-size: 1.8em;
+// 		}
+// 	}
+// }
+
+// .l-region--sidebar-first {
+// 	@include grid-span(3, 10);
+// }
+
+// .l-content {
+// 	@include grid-span(9,1);
+// }
+
+
+// body {
+// 	background: yellow;
+// }
+
+// @include breakpoint($tab){
+// 	body {
+// 		background: blue;
+// 	}
+// }
+
+// @include breakpoint($desk){
+// 	body {
+// 		background: green;  
+// 	}
+// }
+
+
+
+.l-page {
+	margin: 0 auto;
+	@include breakpoint($tab, true) {
+		width: $tab;
+	}
+	@include breakpoint($desk, true) {
+		width: $desk;
+	}
+}
+
+.l-main {
+	@include clearfix;
+}
+
+// .l-region--sidebar-first {
+// 	border: 3px solid $main;
+// 	@include border-radius;
+// }
+
+@include breakpoint($tab, true) {
+	.l-region--sidebar-first {
+		@include grid-span(3, 10);
+	}
+
+	.l-content {
+		@include grid-span(9,1);
+	}
+}
+
+@include breakpoint($desk, true) {
+	.l-region--sidebar-first {
+		@include grid-span(3, 1);
+	}
+
+	.l-content {
+		@include grid-span(9,4);
+	}
+}

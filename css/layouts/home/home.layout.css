@@ -1,0 +1,35 @@
+/* line 44, ../../../sass/layouts/home/home.layout.scss */
+.l-page {
+  margin: 0 auto; }
+  @media (min-width: 44em) {
+    /* line 44, ../../../sass/layouts/home/home.layout.scss */
+    .l-page {
+      width: 44em; } }
+  @media (min-width: 70em) {
+    /* line 44, ../../../sass/layouts/home/home.layout.scss */
+    .l-page {
+      width: 70em; } }
+
+/* line 54, ../../../sass/layouts/home/home.layout.scss */
+.l-main {
+  overflow: hidden;
+  *zoom: 1; }
+
+@media (min-width: 44em) {
+  /* line 61, ../../../sass/layouts/home/home.layout.scss */
+  .l-content {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none; } }
+@media (min-width: 70em) {
+  /* line 67, ../../../sass/layouts/home/home.layout.scss */
+  .l-content {
+    width: 100%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none; } }
+
+/*# sourceMappingURL=home.layout.css.map */
